@@ -1,4 +1,4 @@
-# Taller de TensorFlow - 1ra edición
+# Taller de TensorFlow - 2da edición
 
 Este repositorio contiene las clases y talleres del curso "Taller de Tensorflow" desarrolladas por los investigadores Roberto Muñoz, Sebastián Arpón y Ricardo Castro. Este material forma parte del curso "Taller de Tensorflow" ofrecido por la empresa Metric Learning.
 
